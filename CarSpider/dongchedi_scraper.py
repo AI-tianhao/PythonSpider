@@ -27,7 +27,7 @@ import pandas as pd
 #  配置
 # ══════════════════════════════════════════════════════════════════════════════
 
-PROXY_KEY = os.environ.get("QG_PROXY_KEY", "E2N6J3O9")   # 建议改用环境变量传入
+PROXY_KEY = os.environ.get("QG_PROXY_KEY", "你的key")   # 建议改用环境变量传入
 
 COOKIE = (
     "__ac_signature=_02B4Z6wo00f01DkpuIwAAIDCCrxOzRtdPPA5CbwAAGcJ46; "
